@@ -41,3 +41,4 @@ pydantic
 huggingface-hub
 Pillow==9.5.0
 setuptools
+requests
